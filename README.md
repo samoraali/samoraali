@@ -1,4 +1,4 @@
-- Hi there 👋, I'm Samar 
+- Hi there 👋, I'm Samar, better known as Samora.
 - 🔭 I’m currently working on a research paper about harmful brain activity
 - 🌱 I’m currently learning rust 
 - 👯 I’m looking to collaborate on open source projects related to data science etc libraries
