@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning rust 
 - 👯 I’m looking to collaborate on open source projects related to data science etc libraries
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about machine learning, deep learning and stastical modeling
+- 💬 Ask me about machine learning, deep learning and statistical modeling
 - 📫 How to reach me: samoraali on most platforms except for LinkedIn samarali
