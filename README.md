@@ -5,7 +5,7 @@
 
 ## 🧭 About Me
 
-I'm a Data Scientist based in Cairo, Egypt — actively relocating to **Germany (Hamburg / Berlin)** in Q3 2026.
+I'm a Data Scientist based in Cairo, Egypt — actively relocating to **Germany**.
 
 My work sits at the intersection of **end-to-end ML pipelines**, **healthcare data engineering**, and **LLM-powered applications**. I care about building data systems that make clinical and health information more accessible, structured, and actionable — particularly across Arabic-speaking and MENA healthcare markets.
 
