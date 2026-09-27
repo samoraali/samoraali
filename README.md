@@ -38,7 +38,7 @@ End-to-end ETL pipeline processing 110,000+ clinical records → PostgreSQL data
 | Course / Certification | Focus | Status |
 |---|---|---|
 | 🤖 LLM Zoomcamp — DataTalks.Club | RAG pipelines · LangChain · vector databases · embeddings | 🔄 In progress |
-| ☁️ AWS Certified ML Specialty | SageMaker · S3 · Athena · ML on cloud | 🔄 Expected Aug 2026 |
+| ☁️ AWS Certified ML Specialty | SageMaker · S3 · Athena · ML on cloud | 🔄 Expected Nov 2026 |
 | 🧠 PyTorch fundamentals | Deep learning · neural networks · model training | 🔄 In progress |
 
 ---
@@ -66,7 +66,6 @@ End-to-end ETL pipeline processing 110,000+ clinical records → PostgreSQL data
 
 **BI & Reporting**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 
 ---
 
