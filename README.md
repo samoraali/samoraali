@@ -55,7 +55,6 @@ My work sits at the intersection of **end-to-end ML pipelines**, **healthcare da
 **Currently Learning**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_(learning)-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Deployment & Cloud**
 
@@ -67,7 +66,6 @@ My work sits at the intersection of **end-to-end ML pipelines**, **healthcare da
 **BI & Reporting**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 
 ---
 
