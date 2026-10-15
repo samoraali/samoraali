@@ -27,7 +27,6 @@ My work sits at the intersection of **end-to-end ML pipelines**, **healthcare da
 |---|---|---|
 | 🤖 LLM Zoomcamp — DataTalks.Club | RAG pipelines · LangChain · vector databases · embeddings | ✅ Completed |
 | 📊 ML Zoomcamp — DataTalks.Club | End-to-end ML pipelines · model deployment · FastAPI · Docker | 🔄 In progress |
-| 🧑‍💻 AI Developer Zoomcamp — DataTalks.Club | AI application development · agents · LLM tooling | 🔄 In progress |
 | 🎬 Mini-RAG (YouTube series) | RAG pipeline variations · retrieval strategies · chunking methods | 🔄 In progress |
 | ☁️ AWS Certified ML Specialty | SageMaker · S3 · Athena · ML on cloud | 🔄 Expected Nov 2026 |
 | 🧠 PyTorch fundamentals | Deep learning · neural networks · model training | 🔄 In progress |
